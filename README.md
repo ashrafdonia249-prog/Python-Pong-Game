@@ -119,6 +119,10 @@ Possible future improvements include:
 * 🎨 Further UI improvements
 * 🕹️ Physical controller integration using a microcontroller
 
+* ## 🎮 Gameplay
+
+![Pong Game](pong.png)
+
 👩‍💻 Author
 
 Donia Ashraf
