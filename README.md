@@ -121,7 +121,7 @@ Possible future improvements include:
 
 * ## 🎮 Gameplay
 
-![Pong Game](pong.png)
+![Pong Game](pong.png.png)
 
 👩‍💻 Author
 
